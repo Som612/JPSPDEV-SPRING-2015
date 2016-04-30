@@ -1,0 +1,5 @@
+====== Change Log =======
+
+1) Project 1 Unit 1: (-0.5) Class diagram relationships not shown
+- updated class digram submitted (1.Project1Unit1ClassDiagramUpdated.jpg)
+- I think I should get back 0.5 points
